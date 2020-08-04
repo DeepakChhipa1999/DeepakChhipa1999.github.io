@@ -1,4 +1,4 @@
-# Bako - Portfólio Pessoal e Currículo - Recriado do zero 
+# Deepak Chhipa - Personal Portfolio
 
 ## Screenshot About Me
 
@@ -10,6 +10,8 @@
 
 
 ![Code ](https://github.com/DeepakChhipa1999/MyPortfolio/blob/master/images/Untitled1.png)
+
+#Live preview https://deepakchhipa.me
 
 
 ### About The Project
