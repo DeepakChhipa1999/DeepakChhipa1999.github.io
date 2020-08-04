@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Allow: /deepakchhipa.me
+
+Sitemap: https://deepakchhipa.me/sitemap.xml
